@@ -1,0 +1,2 @@
+中文：修复了一些已知的问题。
+English:Fixed some known bug.

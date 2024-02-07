@@ -1,0 +1,12 @@
+中文
+更新了三角形运算API（注：此版本的此API为class文件，请大家手动反编译为java文件，我们同时将在1.7版本更新其Java文件版本）
+
+1.更新了三角形的计算面积、周长等的class文件。
+
+
+English:
+Updated triangle operation API.
+
+(note: This version of the API is a class file, please manually decompile it into a Java file. We will also update its Java file version in version 1.7)
+
+1. Updated the class file for calculating the area and perimeter of triangles
