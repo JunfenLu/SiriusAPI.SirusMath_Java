@@ -1,5 +1,0 @@
-中文：更新了MechanicsAPI包。
-1.更新了计算重力的方法。
-
-English:Updated the MechanicsAPI package.
-1. Updated the method for calculating gravity.
