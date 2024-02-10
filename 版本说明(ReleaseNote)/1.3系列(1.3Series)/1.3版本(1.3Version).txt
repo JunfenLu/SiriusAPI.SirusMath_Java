@@ -1,9 +1,0 @@
-中文：更新了TriangleAPI、Parallelogram API、CircleAPI和GravityAPI 。
-1.更新了三角形、平行四边形和三角形的计算面积，周长等方法。
-2.更新了物理包的重力计算方法。
-（因错误，此版本无API—作者注）
-
-English:Updated TriangleAPI, Parallelogram API, CircleAPI, and GravityAPI.
-1. Updated methods for calculating the area and perimeter of triangles, parallelograms, and triangles.
-2. Updated the gravity package method for physical packages.
-(Due to an error, this version does not have an API - Author's note)
