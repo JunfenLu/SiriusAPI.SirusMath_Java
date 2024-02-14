@@ -7,7 +7,7 @@ public class SpeedAPIClass implements SpeedAPI{
         Distance = distance;
     }
     public void speed() {
-        System.out.println("请确保输入单位为km与h");
+        System.out.println("请确保单位是km与h");
         if (Time==0&&Distance>0){
             System.out.println("错误(error:时间为零而路程却在变化)");
         }else {
